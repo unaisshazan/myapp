@@ -1,9 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-
+import FirstC from './Components/FirstC'
 function App() {
   return (
     <div className="App">
+      <FirstC/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

@@ -1,5 +1,6 @@
 import React, { createElement }  from 'react';
 import ReactDOM from 'react-dom';
+import FirstC from './Components/FirstC'
 
 
 const element = React.createElement('h1' , null , "First variable")
